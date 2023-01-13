@@ -550,7 +550,7 @@ body
         margin-bottom: 4.6rem;
     } 
 }
-@media (max-width: 376px)
+@media (max-width: 396px)
 {
     .mobile
     {
@@ -599,8 +599,4 @@ body
   {
     width: 290px;
   }
-}
-@media (max-width: 700px)
-{
-
 }
