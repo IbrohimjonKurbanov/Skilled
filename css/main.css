@@ -401,6 +401,13 @@ body
         font-size: 1.6rem;
     }
 }
+@media (max-width: 1170px)
+{
+    .services__wrapper
+    {
+        justify-content: center;
+    }
+}
 @media (max-width: 993px)
 {
     .header
@@ -549,14 +556,19 @@ body
     {
         margin-bottom: 4.6rem;
     } 
-}
-@media (max-width: 396px)
-{
+    .services__wrapper
+    {
+        justify-content: center;
+    }
     .mobile
     {
      display: block;
      margin: 0 auto;
     }  
+    
+}
+@media (max-width: 396px)
+{
     .course
     {
         position: relative;
@@ -580,10 +592,7 @@ body
     {
         padding-top: 0;
     }
-    .services__wrapper
-    {
-        justify-content: center;
-    }
+
     .servise__heading
     {
         font-size: 2.4rem;
