@@ -592,7 +592,8 @@ body
     {
         padding: 2.4rem 2.9rem 3.2rem;
     }
-}
+
+    }
 @media (max-width: 333px)
 {
   .hero__description
